@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { HiMenu, HiMinu } from 'react-icons/hi';
 import { AiFillCloseCircle } from 'react-icons/ai';
-import { Link, link, Route, Routes } from 'react-router-dom';
+import { Link,  Route, Routes } from 'react-router-dom';
 
 import { Sidebar, UserProfile } from '../components';
 import Pins from './Pins';
